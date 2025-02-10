@@ -17,7 +17,7 @@ Tkinter (for GUI)
 1.Clone the repository:
 ```bash
 bash
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/akirayumeno/pomodoro-timer.git
 cd pomodoro-timer
 ```
 2.Run the script:
